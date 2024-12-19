@@ -7,11 +7,11 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "🤖𝐍𝐀𝐑𝐔𝐓𝐎↳💧↲𝐁𝐎𝐓🤖"
+global.botnumber = "201002255916"
 global.confirmCode = ""
 
 global.owner = [
-  ['201280244814', '👑 ⁨𝐻𝐴𝑅𝐿𝐸𝑌 𝐿𝐼𝐺𝐻𝑇⁩ 👑', true],
+  ['201507975263', '👑 ⁨𝐻𝐴𝑅𝐿𝐸𝑌 𝐿𝐼𝐺𝐻𝑇⁩ 👑', true],
   ['⁦⁦972546887176⁩⁩', '💫 𝐻𝐴𝑅𝐿𝐸𝑌 𝐿𝐼𝐺𝐻𝑇 💫', true],
 ];
 
